@@ -1,0 +1,19 @@
+{
+  "name": "prac2",
+  "description": "REST API and Express",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yonndenila97/sit725-2023-t1-prac2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yonndenila97/sit725-2023-t1-prac2/issues"
+  },
+  "homepage": "https://github.com/yonndenila97/sit725-2023-t1-prac2#readme"
+}
